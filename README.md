@@ -1,4 +1,4 @@
-# Construction Site's Camera Placement Optimization
+# Camera Placement Optimization
 
 This repository contains code for optimizing the placement of cameras on a construction site, based on a map divided into different phases. The process involves converting a site map into a colored map indicating various zones, running a python code for specifying camera specifications, and using IBM ILOG Cplex Optimization Studio to solve a mathematical model for optimal camera placement. Lastly representing results of the solver to see placement of cameras on the given map and phase.
 
