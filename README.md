@@ -97,8 +97,4 @@ The project workflow is as follows:
     
 5. Enter the solution matrix to view the camera arrangement schematic.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
